@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biraj Silwal / Biraj"
+title                    : "Biraj Silwal"
 title_separator          : "-"
 name                     : &name "Biraj Silwal"
 description              : &description "personal description"
