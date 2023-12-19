@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
-[View](http://academicpages.github.io/files/resume_biraj.pdf)
+[View CV](http://jarib047.github.io/files/resume_biraj.pdf)
