@@ -9,3 +9,5 @@ paperurl: 'http://jarib047.github.io/files/Syntactic_Representations_f.pdf'
 citation:
 ---
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
