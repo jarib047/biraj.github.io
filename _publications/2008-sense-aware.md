@@ -1,13 +1,11 @@
 ---
-title: "Syntactic Representations"
+title: "Sense Aware Syntactic Representations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This research focuses on making dense word embeddings interpretable via the means of metarepresentations - Syntactic Representations. The Syntactic Representations are eight dimensional vectors representing the eight respective parts of speech: noun, verb, adjective, adverb, pronoun, preposition, conjunction and interjection. The Syntactic Representations further enable Hierarchical vectors which emulate the hierarchical aspect of human learning. The Hierarchical Vectors outperform pretrained vectors significantly in multiple tasks and the Syntactic Representations are visually interpretable, providing a view of the word through the eyes of the language model.'
-date: 2023-09-01
-venue: 'under review at ICLR2024'
-paperurl: 'http://academicpages.github.io/files/Syntactic_Representations_f.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2008-sense-aware
+excerpt: 'This research focuses on building dynamic metarepresentations of word vectors. This research is an extension of the work "Syntactic Representations Enable Interpretable Hierarchical Vectors." This work aims to resolve the previous work's limitation of Polysemy by generating metarepresentations which can better capture the parts of speech dimensions as given by the word's context.'
+date: 2023-11-01
+venue: 'in preparation'
+paperurl: 
+citation: 
 ---
-This research focuses on making dense word embeddings interpretable via the means of metarepresentations - Syntactic Representations. The Syntactic Representations are eight dimensional vectors representing the eight respective parts of speech: noun, verb, adjective, adverb, pronoun, preposition, conjunction and interjection. The Syntactic Representations further enable Hierarchical vectors which emulate the hierarchical aspect of human learning. The Hierarchical Vectors outperform pretrained vectors significantly in multiple tasks and the Syntactic Representations are visually interpretable, providing a view of the word through the eyes of the language model.'
 
-[Download paper here](http://jarib047.github.io/files/Syntactic_Representations_f.pdf)
