@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Fine-Tuning Embeddings"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: files/finetuning.pdf
+excerpt: 'An incomplete BERT model pretrained on Nepali language was fine-tuned using previously unseen data to generate elevated word embeddings. The generated word embeddings were further used in some intrinsic and extrinsic tasks. Performance of the enhanced embedding was compared with that of the pre-trained model and a complete BERT model.'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 
+paperurl: 'http://jarib047.github.io/files/finetuning.pdf'
+citation: 
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
