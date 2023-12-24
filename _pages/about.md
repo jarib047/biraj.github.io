@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 Hello!!
-Hopefully we'll get to know each other.
+
+Hopefully, we'll get to know each other soon.
+
 For now, [research](https://jarib047.github.io/research/) and [resume](https://jarib047.github.io/cv/)
 
