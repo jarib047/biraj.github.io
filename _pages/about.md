@@ -17,8 +17,8 @@ My previous research works have been focused on interpreting non-contextual word
 
 <b>Publications</b>
 <ul>
-  <li>Interpreting Pre-trained Word Embeddings using Parts of Speech Metarepresentations. <it>Graduate Thesis</it>. [View thesis](https://jarib047.github.io/files/biraj_silwal_thesis.pdf)</li>
-  <li>Interpretable Syntactic Representations Enable Hierarchical Word Vectors. <it>arXiv preprint</it>[https://arxiv.org/abs/2411.08384](https://arxiv.org/abs/2411.08384)</li>
-  <li>Fine-Tuning Small Embeddings for Elevated Performance. <it>arXiv preprint</it>. [link](link)</li>
+  <li>Interpreting Pre-trained Word Embeddings using Parts of Speech Metarepresentations. <it>Graduate Thesis</it>. <a href="https://jarib047.github.io/files/biraj_silwal_thesis.pdf">View thesis</a></li>
+  <li>Interpretable Syntactic Representations Enable Hierarchical Word Vectors. <it>arXiv preprint</it> <a href="https://arxiv.org/abs/2411.08384">https://arxiv.org/abs/2411.08384</a></li>
+  <li>Fine-Tuning Small Embeddings for Elevated Performance. <it>arXiv preprint</it>. <a href="link">link</a></li>
 </ul>
 
