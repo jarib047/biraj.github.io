@@ -1,10 +1,10 @@
 ---
-title: "Sense Aware Syntactic Representations"
+title: "Interpreting Pre-trained Word Embeddings using Parts of Speech Metarepresentations"
 collection: publications
 permalink: /research/#
-excerpt: 'This research focuses on building dynamic metarepresentations of word vectors. This research is an extension of the work - Syntactic Representations Enable Interpretable Hierarchical Vectors. This work aims to resolve the previous limitation of Polysemy by generating metarepresentations which can better capture the parts of speech dimensions as given by the context of the word.'
-date: 2023-11-01
-venue: 'in preparation'
+excerpt: 'This graduate thesis encompasses the creation of Parts of Speech Metarepresentations via projection, which acts as a steering vector for the pre-trained word embeddings. As these metarepresentations are very small compared to the original word embeddings, interpreting them in terms of parts of speech becomes easier. It was also statistically verified that the addition of these metarepresentations to the original word embeddings was able to improve their performance on various downstream tasks.'
+date: 
+venue: Graduate thesis
 paperurl: 
 citation: 
 ---
